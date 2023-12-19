@@ -1,0 +1,4 @@
+# Project exclude paths
+/cloud-demo/eureka/target/
+/cloud-demo/order-service/target/
+/cloud-demo/user-service/target/
